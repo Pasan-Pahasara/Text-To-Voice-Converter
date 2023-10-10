@@ -4,6 +4,7 @@
   padding: 0;
   font-family: "Ubuntu", sans-serif;
   box-sizing: border-box;
+  color: #fff;
 }
 .hero {
   width: 100%;
@@ -13,4 +14,13 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+}
+.hero h1{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+.hero h1 span{
+    color: #ff2963;
 }
