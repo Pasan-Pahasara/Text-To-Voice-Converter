@@ -2,7 +2,7 @@
 
 A Text to Voice Converter application developed with HTML, JavaScript, and CSS is a web-based tool that allows users to input written text, which is then converted into spoken words, enhancing accessibility and enabling text-based content to be heard audibly.
 
-![Screenshot 2023-10-10 162617](https://github.com/Pasan-Pahasara/Text-To-Voice-Converter/assets/88943660/58dedfc6-cf8d-4978-9ffa-9d3850be91a3)
+![Screenshot 2023-10-10 162617](https://github.com/Pasan-Pahasara/Text-To-Voice-Converter/assets/88943660/08b001ba-4749-4c25-9557-7af9ee5f33f2)
 
 #  
 #### Clone this repository ✅
