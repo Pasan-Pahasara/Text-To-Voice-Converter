@@ -16,7 +16,7 @@ https://github.com/Pasan-Pahasara/Text-To-Voice-Converter.git
 ![GitHub Contributions](https://img.shields.io/github/contributors/Pasan-Pahasara/Text-To-Voice-Converter?&labelColor=black&color=8854d0&style=for-the-badge)
 
 ### License 📝
-[![GitHub license](https://img.shields.io/github/license/Pasan-Pahasara/Text-To-Voice-Converter?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Pasan-Pahasara/Room-Reservation-System/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Pasan-Pahasara/Text-To-Voice-Converter?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Pasan-Pahasara/Text-To-Voice-Converter/blob/master/LICENSE)
 
 <div align="center">
 
